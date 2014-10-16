@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bqw:home|Door43 (bqw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bqw|d43-bqw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bqw/archive/master.zip|d43-bqw.zip]]
+
+**Recent Changes**
+{{changes>ns = bqw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bqw|Ethnologue data]]
+
